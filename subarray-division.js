@@ -5,16 +5,17 @@ function birthday(s, d, m) {
 }
 const recursive = (s, d, m) => {
   let [counter, i] = [0, 0]
+  const incrementCounter = () => {
+    counter++
+    i++
+  }
+  const incrementIndex = () => i++
+
   const iter = () => {
     let subArray = s.slice(i, m + i)
     if (subArray.length >= m) {
       let total = subArray.reduce((t, c) => t + c, 0)
-      if (total === d) {
-        counter++
-        i++
-      } else {
-        i++
-      }
+      total === d ? incrementCounter() : incrementIndex()
       return iter()
     } else {
       return counter

@@ -14,4 +14,5 @@ Let's see what I will achieve at the end of year
 22/01/2021 - ,  
 23/01/2021 - Sales by match,  
 24/01/2021 - ,  
-25/01/2021 - Drawing book,
+25/01/2021 - Drawing book,  
+26/01/2021 - Electronics shop,

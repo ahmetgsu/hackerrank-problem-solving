@@ -15,4 +15,5 @@ Let's see what I will achieve at the end of year
 23/01/2021 - Sales by match,  
 24/01/2021 - ,  
 25/01/2021 - Drawing book,  
-26/01/2021 - Electronics shop,
+26/01/2021 - Electronics shop,  
+27/01/2021 - Cats and a mouse,
